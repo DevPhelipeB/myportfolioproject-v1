@@ -1,0 +1,4 @@
+1) Crie um banco de dados com nome "databasepi";
+2) Rode o SQL nesse banco para criar a tabela necessária do projeto;
+3) Configura a classe ConectaBD.class com seu user e password do MySQL;
+4) Finish;
