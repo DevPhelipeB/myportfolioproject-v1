@@ -1,4 +1,7 @@
 # my portfolio project-v1 Dev | Phelipe
+   
+   
+  ![Logo, Projeto](/PI/src/main/webapp/images/img/logo.png "Logo Projeto DEV | Phelipe")
 
 ## 📌 Objetivo do projeto:
 
