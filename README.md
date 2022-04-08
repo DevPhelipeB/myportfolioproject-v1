@@ -1,7 +1,9 @@
-# my portfolio project-v1 Dev | Phelipe
-   
-   
-  ![Logo, Projeto](/PI/src/main/webapp/images/img/logo.png "Logo Projeto DEV | Phelipe")
+<p align="center">
+  <a href="https://github.com/DevPhelipeB/myportfolioproject-v1">
+    <img src="/PI/src/main/webapp/images/img/logo.png" alt="Logo Projeto DEV | Phelipe">
+  </a>
+  <h1 align="center">my portfolio project-v1 Dev | Phelipe</h1>
+</p>
 
 ## 📌 Objetivo do projeto:
 
